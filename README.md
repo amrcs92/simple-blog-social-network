@@ -28,5 +28,6 @@ After cloning the project you can use artisan command for migration "php artisan
 
 -OR- 
 
-you can import sql file from the root project folder "social_network.sql"
-in your database then login and then start project
+you can import sql file from the root project folder "social_network.sql" in your database 
+
+then login and then start project
