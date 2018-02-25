@@ -24,6 +24,9 @@ Project features description:
 
 Project Installation:
 ---------------------
-After cloning the project you can use artisan command for migration,
-or you can import sql file in the root project folder "social_network.sql"
+After cloning the project you can use artisan command for migration "php artisan migrate",
+
+-OR- 
+
+you can import sql file in the root project folder "social_network.sql"
 in your database then login and then start project
