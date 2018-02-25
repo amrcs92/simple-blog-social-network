@@ -1,6 +1,8 @@
 # simple-blog-social-network
 This is just simple blog social network project
-which enable user create posts like/dislike this
+
+which enable user create posts like/dislike them
+
 edit his profile and upload his profile picture.
 
 Project Infos:
