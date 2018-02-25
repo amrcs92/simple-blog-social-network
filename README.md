@@ -6,6 +6,7 @@ edit his profile and upload his profile picture.
 Project Infos:
 --------------
 Laravel version used in this project: V5.2
+
 Bootstrap used with laravel V3.3.7 
 
 Project features description:
