@@ -21,3 +21,9 @@ Project features description:
 - This project have user account page that user be able to change his name and profile image
 - This project have dashboard page which user can Create,Read,Update,Delete his posts
 - This project have like/dislike feature to user posts and other users
+
+Project Installation:
+---------------------
+After cloning the project you can use artisan command for migration,
+or you can import sql file in the root project folder "social_network.sql"
+in your database then login and then start project
