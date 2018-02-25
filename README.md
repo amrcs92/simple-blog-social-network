@@ -1,4 +1,4 @@
-# simple-blog-social-network
+# Simple Blog Social Network
 This is just simple blog social network project
 
 which enable user create posts like/dislike them
